@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="snow_monkey">Art Space</string>
+    <string name="frozen_grass">Art Space</string>
+    <string name="lake">Art Space</string>
+    <string name="dean">Dean (2023)</string>
+    <string name="waldo">Waldo (2022)</string>
+    <string name="jazz">Jazz (2019)</string>
+</resources>

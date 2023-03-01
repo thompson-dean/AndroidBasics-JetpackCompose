@@ -3,14 +3,9 @@ package com.example.artspace
 import androidx.annotation.DrawableRes
 import androidx.annotation.StringRes
 
+
+
 class DataManager {
-
-    data class Item(
-        @DrawableRes val image: Int,
-        @StringRes val imageName: Int,
-        @StringRes val imageCapturedBy: Int
-    )
-
     val dataArray: Array<Item> = arrayOf(
         Item(
             image = R.drawable.snow_monkey,

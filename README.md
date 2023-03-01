@@ -7,7 +7,14 @@ Excited to see how it differs from SwiftUI - Also excited to be using Kotlin!
 
 https://developer.android.com/courses/android-basics-compose/course
 
-## Projects
+## Status
+
+| Type               | Completion |
+| :----------------- | :--------: |
+| Project            |   3/11   |
+| Tutorials |    0/3     |
+
+## Projects and Tutorials
 
 | Project    | What I made - *What was learned*  | Screenshots |
 | :-- | :-- | :--: |

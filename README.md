@@ -11,7 +11,7 @@ https://developer.android.com/courses/android-basics-compose/course
 
 | Type               | Completion |
 | :----------------- | :--------: |
-| Project            |   6/13   |
+| Project            |   7/14   |
 | Tutorials |    0/3     |
 
 ## Projects and Tutorials
@@ -24,13 +24,14 @@ https://developer.android.com/courses/android-basics-compose/course
 | Project 4 -  Grid View Practice | Built an app to show subjects in a grid layout. _forEach, List, Card, Lazy Column, DataClass, LazyVerticalGrid and how lazy loaded composables work_ | <img src="https://github.com/thompson-dean/AndroidBasics-JetpackCompose/blob/main/GridViewPractice/screenshots/screen01.png" width=25% height=25%> |
 | Project 5 -  Woof | Built an app to show display coworkers' dogs and their hobbies. <br> _Animation, Spring, MaterialTheme, Colors, Typography, Dark Mode and LightMode Settings_  | <img src="https://github.com/thompson-dean/AndroidBasics-JetpackCompose/blob/main/Woof/screenshots/screen01.png" width=25% height=25%> <img src="https://github.com/thompson-dean/AndroidBasics-JetpackCompose/blob/main/Woof/screenshots/screen02.png" width=25% height=25%> <img src="https://github.com/thompson-dean/AndroidBasics-JetpackCompose/blob/main/Woof/screenshots/screen03.png" width=25% height=25%>  |
 | Project 6 -  Project 30 Days Of Quotes | Built an app that displays inspirational quotes from famous authors. <br> _This project used all that was learnt in GridView Practice and Woof. Also add my own animations and chose my own MaterialTheme._ | <img src="https://github.com/thompson-dean/AndroidBasics-JetpackCompose/blob/main/Project30DaysOfQuotes/screenshots/screen01.png" width=25% height=25%> <img src="https://github.com/thompson-dean/AndroidBasics-JetpackCompose/blob/main/Project30DaysOfQuotes/screenshots/screen02.png" width=25% height=25%> |
-| Project 7 -  Lunch Tray |   |  |
-| Project 8 -  My City |   |  |
+| Project 7 -  Dessert Clicker | Refactored an app to use MVVM architecture. <br> _Learnt the basics of how to set up a ViewModel in Jetpack COmpose. As it is very similar to SwiftUI, it did not take long to complete.  | No Screenshots or file uploaded. Source code can be found on Android Developer Github. |
+| Project 8 -  Lunch Tray |   |  |
+| Project 9 -  My City |   |  |
 | Tutorial -  Coroutines |   |  |
-| Project 9 -  Amphibians |   |  |
-| Project 10 -  Bookshelf |   |  |
+| Project 10 -  Amphibians |   |  |
+| Project 11 -  Bookshelf |   |  |
 | Tutorial -  SQL |   |  |
-| Project 11 -  Bus Schedule |   |  |
-| Project 12 -  FLight Search |   |  |
-| Project 13 -  My CIty |   |  |
+| Project 12 -  Bus Schedule |   |  |
+| Project 13 -  FLight Search |   |  |
+| Project 14 -  My CIty |   |  |
 | Tutorial -  WorkManager |   |  |
